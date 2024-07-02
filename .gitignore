@@ -27,6 +27,7 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+kumanyagana.json
 
 # vercel
 .vercel
